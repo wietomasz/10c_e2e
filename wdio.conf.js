@@ -14,7 +14,7 @@ exports.config = {
         acceptInsecureCerts: true,
     }],
     //
-    logLevel: "info",
+    logLevel: "silent",
     bail: 0,
     waitforTimeout: 10000,
     connectionRetryTimeout: 120000,
